@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="2" orient="auto">
+<path d="M0,0 L0,4 L6,2 z" fill="black" />
+</marker>
+</defs>
+<circle cx="54" cy="339" r="1" fill="black"/>
+<text x="54" y="329" fill="black" font-size="12" text-anchor="middle">new</text>
+<circle cx="194" cy="136" r="1" fill="black"/>
+<text x="194" y="126" fill="black" font-size="12" text-anchor="middle">worlds</text>
+<circle cx="521" cy="211" r="1" fill="black"/>
+<text x="521" y="201" fill="black" font-size="12" text-anchor="middle">civilizations</text>
+<circle cx="365" cy="73" r="1" fill="black"/>
+<text x="365" y="63" fill="black" font-size="12" text-anchor="middle">life</text>
+<circle cx="87" cy="56" r="1" fill="black"/>
+<text x="87" y="46" fill="black" font-size="12" text-anchor="middle">explore</text>
+<circle cx="60" cy="146" r="1" fill="black"/>
+<text x="60" y="136" fill="black" font-size="12" text-anchor="middle">strange</text>
+<circle cx="430" cy="78" r="1" fill="black"/>
+<text x="430" y="68" fill="black" font-size="12" text-anchor="middle">and</text>
+<circle cx="380" cy="188" r="1" fill="black"/>
+<text x="380" y="178" fill="black" font-size="12" text-anchor="middle">to</text>
+<circle cx="393" cy="265" r="1" fill="black"/>
+<text x="393" y="255" fill="black" font-size="12" text-anchor="middle">seek</text>
+<circle cx="183" cy="196" r="1" fill="black"/>
+<text x="183" y="186" fill="black" font-size="12" text-anchor="middle">out</text>
+<circle cx="54" cy="339" r="1" fill="black"/>
+<text x="54" y="329" fill="black" font-size="12" text-anchor="middle">new</text>
+<circle cx="87" cy="56" r="1" fill="black"/>
+<text x="87" y="46" fill="black" font-size="12" text-anchor="middle">explore</text>
+<circle cx="430" cy="78" r="1" fill="black"/>
+<text x="430" y="68" fill="black" font-size="12" text-anchor="middle">and</text>
+<circle cx="380" cy="188" r="1" fill="black"/>
+<text x="380" y="178" fill="black" font-size="12" text-anchor="middle">to</text>
+<circle cx="393" cy="265" r="1" fill="black"/>
+<text x="393" y="255" fill="black" font-size="12" text-anchor="middle">seek</text>
+<circle cx="60" cy="146" r="1" fill="black"/>
+<text x="60" y="136" fill="black" font-size="12" text-anchor="middle">strange</text>
+<circle cx="365" cy="73" r="1" fill="black"/>
+<text x="365" y="63" fill="black" font-size="12" text-anchor="middle">life</text>
+<circle cx="183" cy="196" r="1" fill="black"/>
+<text x="183" y="186" fill="black" font-size="12" text-anchor="middle">out</text>
+<line x1="54" y1="339" x2="194" y2="136" stroke="black" marker-end="url(#arrow)"/>
+<line x1="54" y1="339" x2="521" y2="211" stroke="black" marker-end="url(#arrow)"/>
+<line x1="54" y1="339" x2="365" y2="73" stroke="black" marker-end="url(#arrow)"/>
+<line x1="87" y1="56" x2="60" y2="146" stroke="black" marker-end="url(#arrow)"/>
+<line x1="430" y1="78" x2="54" y2="339" stroke="black" marker-end="url(#arrow)"/>
+<line x1="380" y1="188" x2="87" y2="56" stroke="black" marker-end="url(#arrow)"/>
+<line x1="380" y1="188" x2="393" y2="265" stroke="black" marker-end="url(#arrow)"/>
+<line x1="393" y1="265" x2="183" y2="196" stroke="black" marker-end="url(#arrow)"/>
+<line x1="60" y1="146" x2="54" y2="339" stroke="black" marker-end="url(#arrow)"/>
+<line x1="365" y1="73" x2="430" y2="78" stroke="black" marker-end="url(#arrow)"/>
+<line x1="183" y1="196" x2="54" y2="339" stroke="black" marker-end="url(#arrow)"/>
+</svg>

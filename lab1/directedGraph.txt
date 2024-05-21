@@ -1,0 +1,12 @@
+new -> worlds, weight: 1
+new -> civilizations, weight: 1
+new -> life, weight: 1
+worlds -> to, weight: 1
+explore -> strange, weight: 1
+and -> new, weight: 1
+to -> explore, weight: 1
+to -> seek, weight: 1
+seek -> out, weight: 1
+strange -> new, weight: 1
+life -> and, weight: 1
+out -> new, weight: 1
