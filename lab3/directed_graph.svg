@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10000" height="10000">
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="2" orient="auto">
+<path d="M0,0 L0,4 L6,2 z" fill="black" />
+</marker>
+</defs>
+<ellipse cx="500" cy="100" rx="14" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="100" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">many</text>
+<ellipse cx="600" cy="150" rx="31" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="150" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">americans</text>
+<ellipse cx="600" cy="200" rx="21" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="200" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">regard</text>
+<ellipse cx="600" cy="250" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="250" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">the</text>
+<ellipse cx="500" cy="300" rx="14" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="300" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">jury</text>
+<ellipse cx="500" cy="350" rx="21" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="350" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">system</text>
+<ellipse cx="300" cy="400" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="400" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">as</text>
+<ellipse cx="400" cy="450" rx="3" ry="10" fill="none" stroke="blue"/>
+<text x="400" y="450" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">a</text>
+<ellipse cx="300" cy="500" rx="28" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="500" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">concrete</text>
+<ellipse cx="300" cy="550" rx="35" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="550" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">expression</text>
+<ellipse cx="300" cy="600" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">of</text>
+<ellipse cx="300" cy="650" rx="24" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="650" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">crucial</text>
+<ellipse cx="300" cy="700" rx="35" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="700" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">democratic</text>
+<ellipse cx="500" cy="750" rx="21" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="750" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">values</text>
+<ellipse cx="600" cy="800" rx="31" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="800" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">including</text>
+<ellipse cx="600" cy="250" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="250" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">the</text>
+<ellipse cx="600" cy="300" rx="35" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="300" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">principles</text>
+<ellipse cx="600" cy="350" rx="14" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="350" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">that</text>
+<ellipse cx="400" cy="400" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="400" y="400" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">all</text>
+<ellipse cx="500" cy="450" rx="28" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="450" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">citizens</text>
+<ellipse cx="500" cy="500" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="500" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">who</text>
+<ellipse cx="500" cy="550" rx="14" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="550" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">meet</text>
+<ellipse cx="500" cy="600" rx="24" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">minimal</text>
+<ellipse cx="600" cy="650" rx="49" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="650" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">qualifications</text>
+<ellipse cx="300" cy="600" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">of</text>
+<ellipse cx="400" cy="650" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="400" y="650" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">age</text>
+<ellipse cx="700" cy="350" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="350" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">and</text>
+<ellipse cx="700" cy="400" rx="28" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="400" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">literacy</text>
+<ellipse cx="600" cy="450" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="450" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">are</text>
+<ellipse cx="700" cy="500" rx="24" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="500" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">equally</text>
+<ellipse cx="700" cy="550" rx="31" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="550" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">competent</text>
+<ellipse cx="600" cy="550" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="550" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">to</text>
+<ellipse cx="600" cy="600" rx="17" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">serve</text>
+<ellipse cx="700" cy="650" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="650" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">on</text>
+<ellipse cx="600" cy="700" rx="21" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="700" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">juries</text>
+<ellipse cx="600" cy="350" rx="14" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="350" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">that</text>
+<ellipse cx="600" cy="400" rx="21" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="400" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">jurors</text>
+<ellipse cx="700" cy="450" rx="21" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="450" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">should</text>
+<ellipse cx="800" cy="500" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="800" y="500" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">be</text>
+<ellipse cx="800" cy="550" rx="28" ry="10" fill="none" stroke="blue"/>
+<text x="800" y="550" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">selected</text>
+<ellipse cx="900" cy="600" rx="28" ry="10" fill="none" stroke="blue"/>
+<text x="900" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">randomly</text>
+<ellipse cx="900" cy="650" rx="14" ry="10" fill="none" stroke="blue"/>
+<text x="900" y="650" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">from</text>
+<ellipse cx="400" cy="450" rx="3" ry="10" fill="none" stroke="blue"/>
+<text x="400" y="450" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">a</text>
+<ellipse cx="400" cy="500" rx="49" ry="10" fill="none" stroke="blue"/>
+<text x="400" y="500" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">representative</text>
+<ellipse cx="400" cy="550" rx="17" ry="10" fill="none" stroke="blue"/>
+<text x="400" y="550" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">cross</text>
+<ellipse cx="400" cy="600" rx="24" ry="10" fill="none" stroke="blue"/>
+<text x="400" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">section</text>
+<ellipse cx="300" cy="600" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="300" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">of</text>
+<ellipse cx="600" cy="250" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="250" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">the</text>
+<ellipse cx="700" cy="300" rx="31" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="300" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">community</text>
+<ellipse cx="700" cy="350" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="350" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">and</text>
+<ellipse cx="600" cy="350" rx="14" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="350" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">that</text>
+<ellipse cx="500" cy="400" rx="35" ry="10" fill="none" stroke="blue"/>
+<text x="500" y="400" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">defendants</text>
+<ellipse cx="600" cy="450" rx="10" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="450" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">are</text>
+<ellipse cx="600" cy="500" rx="28" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="500" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">entitled</text>
+<ellipse cx="600" cy="550" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="600" y="550" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">to</text>
+<ellipse cx="700" cy="600" rx="17" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="600" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">trial</text>
+<ellipse cx="800" cy="650" rx="7" ry="10" fill="none" stroke="blue"/>
+<text x="800" y="650" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">by</text>
+<ellipse cx="700" cy="700" rx="17" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="700" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">their</text>
+<ellipse cx="700" cy="750" rx="17" ry="10" fill="none" stroke="blue"/>
+<text x="700" y="750" fill="blue" font-size="12" text-anchor="middle" alignment-baseline="middle">peers</text>
+<path d="M300,510 C297,525 303,525 300,540" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,510 C597,525 603,525 600,540" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M800,510 C797,525 803,525 800,540" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M531,404 C556,430 565,418 591,445" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M700,510 C697,525 703,525 700,540" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M300,660 C297,675 303,675 300,690" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M518,754 C540,779 549,769 572,795" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M700,710 C697,725 703,725 700,740" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M376,600 C341,593 341,606 307,600" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M615,604 C649,632 658,616 693,645" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M618,404 C645,430 653,418 681,445" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M715,604 C749,632 758,616 793,645" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M586,352 C493,356 502,392 409,397" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M587,354 C554,368 563,380 531,395" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,360 C597,375 603,375 600,390" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M551,648 C433,600 423,649 306,601" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M521,604 C534,628 542,621 556,645" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,460 C597,475 603,475 600,490" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M608,454 C638,481 647,467 678,495" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M700,360 C697,375 703,375 700,390" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M690,350 C652,342 652,357 614,350" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M304,592 C482,453 415,395 593,257" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M300,610 C297,625 303,625 300,640" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M306,604 C344,633 352,616 391,645" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M793,654 C749,666 758,682 715,695" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M333,702 C401,739 410,709 479,747" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M718,454 C751,482 759,467 793,495" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M887,646 C663,501 625,598 402,453" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M400,510 C397,525 403,525 400,540" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M825,554 C845,579 853,569 874,595" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M693,654 C651,667 659,682 618,695" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M408,404 C436,431 445,417 474,445" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M397,454 C356,467 365,481 325,495" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M400,460 C397,475 403,475 400,490" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M500,310 C497,325 503,325 500,340" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M300,560 C297,575 303,575 300,590" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,790 C653,525 547,525 600,260" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M400,560 C397,575 403,575 400,590" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M669,550 C638,543 638,556 607,550" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M512,104 C537,130 546,118 572,145" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M700,310 C697,325 703,325 700,340" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M591,254 C547,266 555,282 512,295" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,260 C597,275 603,275 600,290" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M608,254 C635,280 644,268 672,295" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M674,404 C636,417 645,431 608,445" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,160 C597,175 603,175 600,190" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M306,404 C347,433 355,415 397,445" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M479,352 C388,357 397,391 306,397" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M500,560 C497,575 503,575 500,590" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,210 C597,225 603,225 600,240" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,690 C633,525 567,525 600,360" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,310 C597,325 603,325 600,340" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M600,560 C597,575 603,575 600,590" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M606,554 C640,582 649,566 684,595" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M900,610 C897,625 903,625 900,640" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M500,460 C497,475 503,475 500,490" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M407,642 C578,528 521,471 692,357" fill="none" stroke="black" marker-end="url(#arrow)"/>
+<path d="M500,510 C497,525 503,525 500,540" fill="none" stroke="black" marker-end="url(#arrow)"/>
+</svg>
